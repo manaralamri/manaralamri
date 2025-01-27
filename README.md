@@ -27,8 +27,6 @@ I am passionate about creating innovative solutions to real-world problems using
 - Tools: Postman, Git, GitHub, VS Code  
 
 
-📊 GitHub Stats:  
-![github stats](https://github.com/manaralamri)  
 
 
 💡 "Strive not to be a success, but rather to be of value." – Albert Einstein  
