@@ -26,7 +26,7 @@ I am passionate about creating innovative solutions to real-world problems using
 
 
 📊 GitHub Stats:  
-![Manar's GitHub stats](https://github.com/manaralamri)  
+![github stats](https://github.com/manaralamri)  
 
 
 💡 "Strive not to be a success, but rather to be of value." – Albert Einstein  
