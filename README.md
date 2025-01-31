@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Improving myself  
 - 🌱 I’m currently learning React 
 - 💬  Ask me about JS, CSS, MySQL, SQLite, Django, Postman, Python
-- 📫 How to reach me: manaralamre@gmail.com  
+- 📫 How to reach me: manaralamre33@gmail.com  
 
 👩‍💻 About Me:  
 I am passionate about creating innovative solutions to real-world problems using technology. I enjoy working on both front-end and back-end development, and I’m eager to explore new tools and frameworks to expand my skill set. 
